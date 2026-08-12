@@ -20,27 +20,11 @@ This project allows users to create, view, and delete tasks through a clean dark
 
 ## Screenshot
 
-*Add your application screenshot here*
+<img width="792" height="552" alt="Screenshot 2026-08-13 000546" src="https://github.com/user-attachments/assets/69976c40-6dfc-42ca-9c04-f3b9a6a867c9" />
 
 ## How to Run
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/task-manager-tkinter.git
-```
-
-2. Open the project folder:
-
-```bash
-cd task-manager-tkinter
-```
-
-3. Run the application:
-
-```bash
-python task_manager.py
-```
+Just simply download exe file and run it as adminstrator , enjoy!
 
 ## Future Improvements
 
