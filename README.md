@@ -39,3 +39,5 @@ Just simply download exe file and run it as adminstrator , enjoy!
 This project was created as a practice project while learning Python GUI development with Tkinter.
 
 More projects coming soon 🚀
+# Author
+MohammadAmin
